@@ -12,7 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 Explain how your project works
 Se realizo un diseño de 4 entradas y 7 salidas 
 ## How to test
-
+Funciona por numero binario y en la salida tendras 7 posibles segmentos 
 Explain how to use your project
 
 ## External hardware
