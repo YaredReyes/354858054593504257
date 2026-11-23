@@ -10,7 +10,7 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-
+Se realizo un diseño de 4 entradas y 7 salidas 
 ## How to test
 
 Explain how to use your project
